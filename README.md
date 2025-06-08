@@ -12,7 +12,7 @@
 - 🌟 Full Stack Developer fluent in all major web technologies  
 - 🔭 Currently building end-to-end **MERN** & **Java** based projects  
 - 🌱 Exploring **AI, DevOps, and System Design**
-- 📫 Reach me at: **shreyyanshsingh@email.com**
+- 📫 Reach me at: **shreyrajput65@gmail.com**
 - 💬 Ask me about **Web Development, GitHub, JavaScript, APIs**
 - 🎯 Goal: Build SaaS tools, automate workflows & contribute to open source
 
