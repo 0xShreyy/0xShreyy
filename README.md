@@ -29,9 +29,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh-singh&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xShreyy&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-singh&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xShreyy&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyansh-singh&theme=algolia&no-frame=true&title=Stars,Followers,Commits,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0xShreyy&theme=algolia&no-frame=true&title=Stars,Followers,Commits,Repositories" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyansh-singh&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xShreyy&theme=react-dark" />
 </p>
 
 ---
